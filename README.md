@@ -1,5 +1,8 @@
 # jwtvoid
 
+[![Crates.io](https://img.shields.io/crates/v/jwtvoid.svg)](https://crates.io/crates/jwtvoid)
+[![Crates.io](https://img.shields.io/github/v/tag/aramperes/jwtvoid?label=release)](https://github.com/aramperes/jwtvoid/releases/latest)
+
 A utility to convert existing JWTs ([JSON Web Tokens](https://jwt.io)) to
 the [`none` algorithm](https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/).
 
